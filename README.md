@@ -4,7 +4,7 @@
 An AI-powered web application that detects brain tumors from MRI scans with 91.2% accuracy using YOLOv8 deep learning.
 
 ## 🚀 Live Demo
-[**Try the Live App on Hugging Face**](YOUR_HUGGING_FACE_URL_HERE)
+[**Try the Live App on Hugging Face**](https://huggingface.co/spaces/anis0Talbi/brain_tumor)
 
 ![Brain Tumor Detection](https://img.shields.io/badge/Accuracy-91.2%25-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
