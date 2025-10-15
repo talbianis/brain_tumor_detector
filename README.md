@@ -38,3 +38,22 @@ An AI-powered web application that detects brain tumors from MRI scans with 91.2
 4. Receive detailed analysis report
 
 ## 📁 Project Structure
+brain-tumor-detection/
+├── app.py # Gradio web interface
+├── requirements.txt # Python dependencies
+├── brain_tumor_model.pt # Trained model weights
+└── README.md # Project documentation 
+
+## 🔬 Medical Context
+This tool is designed for:
+- **Educational purposes** in medical imaging
+- **Research applications** in oncology
+- **Radiology assistance** for preliminary screening
+
+*Note: For educational purposes. Always consult healthcare professionals for medical diagnosis.*
+
+## 📄 License
+MIT License - Feel free to use this project for learning and research purposes.
+
+---
+**Built with ❤️ using PyTorch and YOLOv8**
